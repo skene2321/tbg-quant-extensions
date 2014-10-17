@@ -1,7 +1,7 @@
 /**
- *  tbg-quant-strategy-development project
+ *  tbg-quant-indicators project
  *  
- *  Alberto Sfolcini <a.sfolcini@gmail.com>
+ *  Riccardo Alberti <riccardo.alberti@gmail.com>
  */
 package com.tbg.test;
 
